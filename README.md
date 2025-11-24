@@ -1,3 +1,20 @@
+# One-Page Responsive Website
+
+This project is a clean and structured **one-page layout**, built as part of a job entrance assignment.  
+The focus was on creating a visually appealing and responsive design using **HTML, CSS, JavaScript**, and **Bootstrap**.
+
+The page includes sections such as hero banners, galleries, schedules, and smooth navigation elements.  
+It demonstrates front-end layout skills, attention to detail, and responsive design techniques.
+
+### Features
+- Fully responsive one-page layout
+- Clean CSS and Bootstrap structure
+- Image gallery and visual sections
+- Smooth scrolling and navigation
+- Simple JavaScript interaction
+
+### Technologies
+**HTML**, **CSS**, **Bootstrap**, **JavaScript**
 
 
 ![Screenshot from 2024-04-29 23-37-16](https://github.com/makason98/One-page-site/assets/70956602/7884ab54-acca-46cb-9895-705fe2398e2e)
